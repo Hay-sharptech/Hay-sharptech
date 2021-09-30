@@ -2,6 +2,6 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hay-sharptech&show_icons=true&theme=radical)
 - I’m Hay-sharptech
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently into Solidity
 - 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me on my [email](iamtheayomide@gmail.com)
